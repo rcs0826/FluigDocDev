@@ -16,7 +16,7 @@ import java.io.DataInput;
 public class ArqDir {
     
     public File[] getListFile(){
-        String dir = "/home/rogerio/Documentos/Google Drive/TDS/WorkspaceFluig/Santher";    
+        String dir = "/home/rogerio/Documentos/Codigos/WorkspaceFluig/Santher";    
         File allDir = new File(dir);
         File[] arquivos = allDir.listFiles();       
     

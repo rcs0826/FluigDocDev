@@ -16,7 +16,7 @@ import javax.swing.DefaultComboBoxModel;
 public class SqliteConnect {
 
     /* Sqlite */
-    private static final String stringDeConexao = "jdbc:sqlite:/home/rogerio/NetBeansProjects/FluigDocDev/database/dataBase.db";
+    private static final String stringDeConexao = "jdbc:sqlite:/home/rogerio/Documentos/Codigos/NetBeansProjects/FluigDocDev/database/dataBase.db";
     // conexão
     private Connection conexao = null;
     // instrucao SQL

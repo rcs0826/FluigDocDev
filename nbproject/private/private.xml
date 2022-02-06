@@ -3,12 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/rogerio/NetBeansProjects/FluigDocDev/src/fluigdocdev/XMLSoapFluig.java</file>
-            <file>jar:file:/home/rogerio/NetBeansProjects/FluigDocDev/libs/slf4j-api-1.7.26.jar!/META-INF/maven/org.slf4j/slf4j-api/pom.xml</file>
-            <file>file:/home/rogerio/NetBeansProjects/FluigDocDev/src/fluigdocdev/Rest.java</file>
-            <file>file:/home/rogerio/NetBeansProjects/FluigDocDev/src/fluigdocdev/views/CadastroServer.java</file>
-            <file>jar:file:/home/rogerio/NetBeansProjects/FluigDocDev/libs/slf4j-api-1.7.26.jar!/META-INF/maven/org.slf4j/slf4j-api/pom.properties</file>
-            <file>file:/home/rogerio/NetBeansProjects/FluigDocDev/src/fluigdocdev/entidades/Server.java</file>
+            <file>file:/home/rogerio/Documentos/Codigos/NetBeansProjects/FluigDocDev/src/fluigdocdev/FileText.java</file>
+            <file>file:/home/rogerio/Documentos/Codigos/NetBeansProjects/FluigDocDev/src/fluigdocdev/FluigDocDev.java</file>
+            <file>file:/home/rogerio/Documentos/Codigos/NetBeansProjects/FluigDocDev/src/fluigdocdev/Rest.java</file>
+            <file>file:/home/rogerio/Documentos/Codigos/NetBeansProjects/FluigDocDev/src/fluigdocdev/SqliteConnect.java</file>
+            <file>file:/home/rogerio/Documentos/Codigos/NetBeansProjects/FluigDocDev/src/fluigdocdev/ArqDir.java</file>
+            <file>file:/home/rogerio/Documentos/Codigos/NetBeansProjects/FluigDocDev/src/fluigdocdev/FileSystemModel.java</file>
         </group>
     </open-files>
 </project-private>
